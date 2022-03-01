@@ -1,0 +1,357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The iolly pinder of Wakefield with Robin Hood, Scarlet, and Iohn.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03926</idno>
+            <idno type="STC">Wing J896A</idno>
+            <idno type="STC">ESTC R179003</idno>
+            <idno type="EEBO-CITATION">52612423</idno>
+            <idno type="OCLC">ocm 52612423</idno>
+            <idno type="VID">179488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179488)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2790:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The iolly pinder of Wakefield with Robin Hood, Scarlet, and Iohn.</title>
+                  <author>Deloney, Thomas, 1543?-1600. Noble acts newly found, of Arthur of the Table Round.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright, and J. Clarke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1674 and 1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Place and date range of publication from Wing.</note>
+                  <note>Printed in two columns, in black letter.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>Bound with: The noble acts newly found, of Arthur of the Table Round. To the tune of, Flying fame.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Robin Hood (Legendary character) --  Poetry --  Early modern, 1500-1700.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:179488:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>The Iolly Pinder of Wakefield: VVITH Robin Hood, Scarlet, and Iohn.</head>
+            <p>
+               <figure/>
+            </p>
+            <l>IN <hi>Wakefield</hi> their lives a jolly Pinder,</l>
+            <l>in <hi>Wakefield</hi> all on a green,</l>
+            <l>in <hi>Wakefield</hi> all on a green.</l>
+            <l>There is neither Knight, nor Squire, ſaid the Pinder,</l>
+            <l>nor Baron that is ſo bold,</l>
+            <l>nor Baron that is ſo bold.</l>
+            <l>Dare make a treſpaſs to the town of <hi>Wakefield,</hi>
+            </l>
+            <l>but his Pledge goes to the Pinfold, &amp;c.</l>
+            <l>All this beheard three witty young men,</l>
+            <l>'twas <hi>Robin Hood, Scarlet,</hi> and <hi>John,</hi> &amp;c.</l>
+            <l>With that they eſpyed the jolly Pinder,</l>
+            <l>as he ſat under a thorn, &amp;c.</l>
+            <l>Now turn again, turn again, ſaid the Pinder,</l>
+            <l>for a wrong way you have gone, &amp;c.</l>
+            <l>For you have forſaken the Kings High-way,</l>
+            <l>and made a path over the Corn, &amp;c.</l>
+            <l>O that were great ſhame ſaid jolly <hi>Robin,</hi>
+            </l>
+            <l>we being three, and thou but one, &amp;c.</l>
+            <l>The Pinder leapt back then thirty good foot,</l>
+            <l>'twas thirty good foot and one, &amp;c.</l>
+            <l>He leaned his back faſt unto a thorn,</l>
+            <l>and his foot againſt a ſtone, &amp;c.</l>
+            <l>And there he fought a long ſummers day,</l>
+            <l>a ſummers day ſo long, &amp;c.</l>
+            <l>Till that their ſwords on their broad bucklers,</l>
+            <l>were broke faſt unto their hands, &amp;c.</l>
+            <l>Hold thy hand, hold thy hand, ſaid <hi>Robin Hood,</hi>
+            </l>
+            <l>and my merry men every one, &amp;c.</l>
+            <l>For this is one of the beſt Pinders,</l>
+            <l>that ever I try'd with Sword, &amp;c.</l>
+            <l>And wilt thou forſake thy Pinders craft,</l>
+            <l>and live in green wood with me, &amp;c.</l>
+            <l>At <hi>Michaelmas</hi> next my Cov'nant comes out,</l>
+            <l>when every man gathers his fee, &amp;c.</l>
+            <l>I'le take my blew blade all in my hand,</l>
+            <l>and plod to the green wood with thee, &amp;c.</l>
+            <l>Haſt thou either Meat or Drink ſaid <hi>Robin Hood</hi>
+            </l>
+            <l>for my merry men and me, &amp;c.</l>
+            <l>I have both Bread and Beef, ſaid the Pinder,</l>
+            <l>and good Ale of the beſt, &amp;c.</l>
+            <l>And that is meat good enough, ſaid <hi>Robin Hood,</hi>
+            </l>
+            <l>for ſuch unbidden Gueſt, &amp;c.</l>
+            <l>O wilt thou forſake the Pinder his craft,</l>
+            <l>and go to the Green-wood with me, &amp;c.</l>
+            <l>Thou ſhalt have a livery twice in the year,</l>
+            <l>the one green, the other brown, &amp;c.</l>
+            <l>If <hi>Michaelmas</hi> day was come and gone,</l>
+            <l>and my Maſter had paid me my fee.</l>
+            <l>and my Maſter had paid me my fee.</l>
+            <l>Then would I ſet as little by him,</l>
+            <l>as my Maſter doth by me,</l>
+            <l>as my Maſter doth by me.</l>
+         </div>
+         <div type="ballad">
+            <head>The Noble Acts Newly found, Of <hi>Arthur</hi> of the Table Round.</head>
+            <opener>To the Tune of, <hi>Flying Fame.</hi>
+            </opener>
+            <l>WHen <hi>Arthur</hi> firſt in Court began,</l>
+            <l>and was approved King.</l>
+            <l>By force of arms great victories won,</l>
+            <l>and conqueſt home did bring,</l>
+            <l>Then into <hi>Brittain</hi> ſtrait he came</l>
+            <l>where fifty ſtout and able</l>
+            <l>Knights, then repaired unto him</l>
+            <l>which were of the round Table.</l>
+            <l>And many Iuſts and Turnaments</l>
+            <l>before him there were preſt,</l>
+            <l>Wherein theſe Knights did then excell,</l>
+            <l>and far ſurmount the reſt,</l>
+            <l>But one Sir <hi>La<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>celot du Lake,</hi>
+            </l>
+            <l>who was approved well,</l>
+            <l>He in his fights and deeds of arms,</l>
+            <l>all other did excel.</l>
+            <l>When he had reſted him a while,</l>
+            <l>to play, and game, and Sport.</l>
+            <l>He thought he would approve himſelf</l>
+            <l>in ſome adventurous ſort:</l>
+            <l>He armed rode id Forreſt wide,</l>
+            <l>and met a Damoſel fair,</l>
+            <l>Who told him of adventures great,</l>
+            <l>whereto he gave good ear.</l>
+            <l>Why ſhould I not (quoth <hi>Lancelot</hi> tho)</l>
+            <l>for that cauſe came I hither:</l>
+            <l>Thou ſeem'ſt, quoth ſhe a Knight right good</l>
+            <l>and I will bring thee thither,</l>
+            <l>Whereas the mightieſt Knight doth dwell,</l>
+            <l>that now is of great fame:</l>
+            <l>Wherefore tell me what Knight thou art</l>
+            <l>and then what is thy name,</l>
+            <l>My name is <hi>Lanc<gap reason="illegible: missing" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ot <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u Lake,</hi>
+            </l>
+            <l>quoth ſhe, it likes me then,</l>
+            <l>He<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r dwells a Knight that never was</l>
+            <l>o're matcht of any man,</l>
+            <l>Who hath in Priſon threeſcore Knights,</l>
+            <l>and ſome that he hath bound,</l>
+            <l>Knights of King <hi>Arthurs</hi> Court they be,</l>
+            <l>and of the Table round.</l>
+            <l>She brought him to a River then,</l>
+            <l>and alſto a Tree,</l>
+            <l>Whereas a Copper Baſon hung,</l>
+            <l>his fellows ſhield to ſee.</l>
+            <l>He ſtruck ſo hard the Baſon broke,</l>
+            <l>when <hi>Tarquin</hi> heard the ſound,</l>
+            <l>He drove a horſe before him ſtrait,</l>
+            <l>whereon a Knight was bound.</l>
+            <l>Sir Knight (then ſaid Sir <hi>Lancelot</hi>)</l>
+            <l>bring me that horſe-load hither,</l>
+            <l>And lay him down and let him reſt,</l>
+            <l>we'l try our force together:</l>
+            <l>For as I underſtand thou haſt,</l>
+            <l>as far as thou art able,</l>
+            <l>Done great diſpight and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ame unto</l>
+            <l>the Knights of the round Table.</l>
+            <l>If thou art of the Table round,</l>
+            <l>quoth <hi>Tarquin</hi> ſpeedily,</l>
+            <l>Both thee and all thy fellowſhip,</l>
+            <l>I utterly defie.</l>
+            <l>That's overmuch quoth <hi>Lancelot</hi> tho,</l>
+            <l>defend thee by and by,</l>
+            <l>They put their Spurs unto their Steeds</l>
+            <l>and each at other flye,</l>
+            <l>They couch their Spears and Horſes run,</l>
+            <l>as though they had been thunder,</l>
+            <l>And each ſtruck then upon the Shield,</l>
+            <l>wherewith they brake aſunder.</l>
+            <l>Their Horſes backs brake under them</l>
+            <l>the Knights were both aſtoned</l>
+            <l>To void their horſes they made haſte</l>
+            <l>to light upon the ground:</l>
+            <l>They took them to their ſhields full faſt,</l>
+            <l>their ſwords they drew out then,</l>
+            <l>With mighty ſtroaks moſt eagerly</l>
+            <l>each one at other run</l>
+            <l>They wounded were and bled full ſore</l>
+            <l>for breath they both did ſtand,</l>
+            <l>And leaning on their ſwords a while,</l>
+            <l>quoth <hi>Tarquin</hi> hold thy hand.</l>
+            <l>And tell to me what I ſhall ask,</l>
+            <l>ſay on quoth <hi>
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ancelot</hi> tho,</l>
+            <l>Thou art quoth <hi>Ta<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>qu<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> the beſt Knight</l>
+            <l>that ever I did know,</l>
+            <l>And like a Knight that I did hate,</l>
+            <l>ſo that thou be not he,</l>
+            <l>I will deliver all the reſt.</l>
+            <l>and eke accord with thee,</l>
+            <l>That is well ſaid, quoth <hi>Lancelot</hi> then,</l>
+            <l>but ſith it ſo muſt be:</l>
+            <l>What is the Knight thou hateſt ſo,</l>
+            <l>I pray thee ſhow to me?</l>
+            <l>His name is Sir <hi>
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncelot du Lake,</hi>
+            </l>
+            <l>he ſlew my Brother dear,</l>
+            <l>Him I ſuſpect of all the reſt,</l>
+            <l>I would <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had him here.</l>
+            <l>Thy wiſh thou haſt, but now unknown,</l>
+            <l>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> am <hi>Lancelot du Lak<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </l>
+            <l>Now Knight of <hi>A<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hurs</hi> Table round</l>
+            <l>Kings <hi>H<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds</hi> Son of <hi>Benwake:</hi>
+            </l>
+            <l>And I defie thee, do thy worſt,</l>
+            <l>ha, ha, quoth <hi>Tarquin</hi> tho,</l>
+            <l>One of us two ſhall end their Lives</l>
+            <l>before that we do go.</l>
+            <l>If thou be <hi>Lancelot du Lake,</hi>
+            </l>
+            <l>then welcome ſhalt thou be,</l>
+            <l>Wherefore ſee thou thy ſelf defend,</l>
+            <l>for now I do thee Defie.</l>
+            <l>They hurled then together faſt,</l>
+            <l>like two wild Boars ſo raſhing,</l>
+            <l>And with their Swords &amp; ſhields they ran,</l>
+            <l>at one another flaſhing,</l>
+            <l>The ground beſprinkled was with Blood</l>
+            <l>
+               <hi>Tarquin</hi> began to faint,</l>
+            <l>For he had hackt and bore his Shield</l>
+            <l>ſo low he did repent,</l>
+            <l>That ſoon eſpyed Sir <hi>Lancelot</hi> tho,</l>
+            <l>he leapt upon him then</l>
+            <l>He pull'd him down upon his Knee,</l>
+            <l>and ruſhed off his Helm:</l>
+            <l>And then he ſtruck his Neck in two,</l>
+            <l>and when he had done ſo,</l>
+            <l>From priſon threeſcore Knights and four.</l>
+            <l>
+               <hi>Lancelot</hi> delivered tho</l>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> P. Coles, T. Vere, J. Wright, <hi>and J.</hi> Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
